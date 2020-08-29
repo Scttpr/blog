@@ -1,0 +1,15 @@
+image: "rust:latest"
+
+pages:
+  stage: deploy
+  script:
+    - rustc --version && cargo --version
+    - cargo install mdbook --no-default-features --features output --vers "^0.1.0"
+    - mdbook build
+    - mkdir public
+    - cp -r book/. public/.
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
