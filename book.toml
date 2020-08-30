@@ -1,6 +1,11 @@
 [book]
 authors = ["Scttpr"]
+description = "Notes I take not to forget little things I do on my computer"
 language = "en"
 multilingual = false
 src = "src"
 title = "Scttpr notes"
+
+[output.html]
+default-theme = "coal"
+curly-quotes = true
