@@ -4,8 +4,4 @@
 
 ## Setup
 
-### ZSH
-
-### Antigen
-
-### Exa
+@todo
