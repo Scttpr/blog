@@ -26,7 +26,7 @@ which zsh
 chsh -s <path_to_zsh>
 ```
 
-To setup an history for ZSH create a `.histfile` file wherever you wish (I store it in ~/.zsh/.histfile).
+To setup an history for ZSH create a `.histfile` file wherever you wish (I store it in Antigen folder).
 Then create `~/.zshrc`, in your favorite text editor :
 ```bash
 HISTFILE=<path_to_your_histfile>
@@ -70,6 +70,8 @@ In a terminal :
 ```bash
 sudo pacman -S ttf-fira-code noto-fonts-emoji
 ```
+
+Then set Fira Code as the default font in your terminal settings.
 
 ## Exa, a better ls command
 
