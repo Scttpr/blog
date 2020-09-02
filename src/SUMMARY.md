@@ -3,3 +3,5 @@
 - [Shell configuration](./shell_configuration.md)
 - [Docker images](./extern_docker_images.md)
 - [Git emergency toolbox](./git_emergency_toolbox.md)
+
+- [Scripts list](./scripts_list.md)
