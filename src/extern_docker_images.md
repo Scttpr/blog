@@ -6,7 +6,7 @@
 
 [MongoDB](https://www.mongodb.com/fr) service from official [image](https://hub.docker.com/_/mongo) :
 ```bash
-docker run -d -p 27017:27017 -v -v <path_to_a_local_folder>:/data/db --name <your_favorite_image_name> mongo:latest
+docker run -d -p 27017:27017 -v <path_to_a_local_folder>:/data/db --name <your_favorite_image_name> mongo:latest
 ```
 
 where :
