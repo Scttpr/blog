@@ -1,7 +1,7 @@
 # [My blog](https://scttpr.gitlab.io/blog/)
 
-![GitHub](https://img.shields.io/github/license/Scttpr/blog?style=for-the-badge)
-![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/Scttpr/blog/master?style=for-the-badge)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![pipeline status](https://gitlab.com/Scttpr/blog/badges/master/pipeline.svg)](https://gitlab.com/Scttpr/blog/-/commits/master)
 
 > Notes, configs, gists, etc.
 
